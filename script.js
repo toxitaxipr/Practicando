@@ -9,6 +9,8 @@ const textoB = "horas"
 const EcuacionDV = textoA + ' ' + sustitucionDV + ' ' + textoB
 // Se calculan los valores 
 
+alert (EcuacionDV)
+
 const unaHora = 60
 // Se calcula una hora en 60 minutos
 
@@ -20,8 +22,6 @@ const textoF = 'minutos'
 const resultadoFinal =   textoC + ' ' + sustitucionDV + ' ' + textoD + ' ' + unaHora + ' ' + textoE + ' ' + valorTotal + ' ' + textoF
 //Se multiplica el valor de la ecuacion por una hora en minutos para el resultado final
 
-
-alert (EcuacionDV)
 alert (resultadoFinal)
 
 
