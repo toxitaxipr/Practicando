@@ -21,8 +21,8 @@ const resultadoFinal =   textoC + ' ' + sustitucionDV + ' ' + textoD + ' ' + una
 //Se multiplica el valor de la ecuacion por una hora en minutos para el resultado final
 
 
-console.log (EcuacionDV)
-console.log (resultadoFinal)
+alert (EcuacionDV)
+alert (resultadoFinal)
 
 
 
